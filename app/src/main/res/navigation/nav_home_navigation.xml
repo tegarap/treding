@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_home_navigation"
+    app:startDestination="@id/navigation_trader">
+
+    <fragment
+        android:id="@+id/navigation_trader"
+        android:name="com.rayaoption.social.views.ui.trader.TraderFragment"
+        tools:layout="@layout/fragment_trader"
+        android:label="BerandaFragment" />
+    <fragment
+        android:id="@+id/navigation_investment"
+        android:name="com.rayaoption.social.views.ui.investment.Investment"
+        tools:layout="@layout/fragment_investment"
+        android:label="WatchlistFragment" />
+    <fragment
+        android:id="@+id/navigation_wallet"
+        android:name="com.rayaoption.social.views.ui.wallet.WalletFragment"
+        tools:layout="@layout/fragment_wallet"
+        android:label="OrderFragment" />
+    <fragment
+        android:id="@+id/navigation_help"
+        android:name="com.rayaoption.social.views.ui.help.HelpFragment"
+        tools:layout="@layout/fragment_help"
+        android:label="ForumFragment" />
+    <fragment
+        android:id="@+id/navigation_account"
+        android:name="com.rayaoption.social.views.ui.account.AccountFragment"
+        tools:layout="@layout/fragment_account"
+        android:label="PortfolioFragment" />
+</navigation>

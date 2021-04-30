@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_warn">#E30425</color>
+
+    <color name="raya_primary">#18C7C9</color>
+    <color name="raya_black">#333333</color>
+    <color name="raya_gray_primary">#999999</color>
+    <color name="raya_gray_secondary">#E1E1E1</color>
+    <color name="raya_gray_tersier">#F2F3F4</color>
+    <color name="raya_white">#FFFFFF</color>
+    <color name="raya_divider_color">#ECEFF1</color>
+
+    <!-- Application Colors -->
+    <color name="colorPrimary">#F05326</color>
+    <color name="colorPrimaryDark">#D03A0E</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimaryVariant">#4E0D3A</color>
+    <color name="colorSecondary">#E30425</color>
+    <color name="colorSurface">#FFFBFA</color>
+    <color name="colorError">#EF9A43</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnSurface">#442B2D</color>
+    <color name="colorOnError">#FFFBFA</color>
+    <color name="colorOnBackground">#442B2D</color>
+
+
+</resources>

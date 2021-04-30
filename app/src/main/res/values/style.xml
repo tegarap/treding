@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BottomNavigationViewTextStyle">
+        <item name="android:fontFamily">@font/poppins_medium</item>
+    </style>
+
+
+    <style name="com_google_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@color/raya_white</item>
+        <item name="android:drawablePadding">4dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:textColor">@color/raya_black</item>
+        <item name="android:textSize">14.0dp</item>
+    </style>
+
+    <style name="AppThemeMaterial" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/raya_primary</item>
+        <item name="colorPrimaryDark">@color/raya_gray_secondary</item>
+        <item name="colorAccent">@color/raya_gray_tersier</item>
+    </style>
+
+<!--    <style name="AppThemeNew" parent="Theme.MaterialComponents.Light.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/raya_primary</item>-->
+<!--        <item name="colorPrimaryDark">@color/raya_gray_primary</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>-->
+<!--        <item name="colorSecondary">@color/colorSecondary</item>-->
+<!--        <item name="colorSurface">@color/colorSurface</item>-->
+<!--        <item name="colorError">@color/colorError</item>-->
+<!--        <item name="colorOnPrimary">@color/colorOnPrimary</item>-->
+<!--        <item name="colorOnSecondary">@color/colorOnSecondary</item>-->
+<!--        <item name="colorOnSurface">@color/colorOnSurface</item>-->
+<!--        <item name="colorOnError">@color/colorOnError</item>-->
+<!--        <item name="colorOnBackground">@color/colorOnBackground</item>-->
+<!--    </style>-->
+
+</resources>

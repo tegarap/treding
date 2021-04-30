@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/navigation">
+
+        <item
+            android:id="@+id/navigation_trader"
+            android:title="@string/menu_trader"
+            android:icon="@drawable/ic_trader"
+            android:orderInCategory="0"/>
+
+        <item
+            android:id="@+id/navigation_investment"
+            android:title="@string/menu_investment"
+            android:icon="@drawable/ic_investment"
+            android:orderInCategory="1"/>
+
+        <item
+            android:id="@+id/navigation_wallet"
+            android:title="@string/menu_wallet"
+            android:icon="@drawable/ic_wallet"
+            android:orderInCategory="2"/>
+
+        <item
+            android:id="@+id/navigation_help"
+            android:title="@string/menu_help"
+            android:icon="@drawable/ic_help"
+            android:orderInCategory="3"/>
+
+        <item
+            android:id="@+id/navigation_account"
+            android:title="@string/menu_account"
+            android:icon="@drawable/ic_account"
+            android:orderInCategory="4"/>
+
+    </group>
+
+</menu>

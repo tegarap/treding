@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235009427252",
+    "project_id": "raya-social-sandbox",
+    "storage_bucket": "raya-social-sandbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235009427252:android:eed1b6e1bbd8f8bceac761",
+        "android_client_info": {
+          "package_name": "com.rayaoption.social.views.dev.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235009427252-3k0dq0h490or1lfc642enok9ctcm0rkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReSHhi9tZ4Iesxb8k9GvaoYa-mo1X0oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235009427252-3k0dq0h490or1lfc642enok9ctcm0rkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

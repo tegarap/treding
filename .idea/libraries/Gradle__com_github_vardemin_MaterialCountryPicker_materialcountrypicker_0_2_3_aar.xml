@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vardemin.MaterialCountryPicker:materialcountrypicker:0.2.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/acd04cdc434a436034aa7ae51f7d8af5/jetified-materialcountrypicker-0.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/acd04cdc434a436034aa7ae51f7d8af5/jetified-materialcountrypicker-0.2.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/acd04cdc434a436034aa7ae51f7d8af5/jetified-materialcountrypicker-0.2.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vardemin.MaterialCountryPicker/materialcountrypicker/0.2.3/523fd28bd66f8f5f8e5d7479f813e61c254a7047/materialcountrypicker-0.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
